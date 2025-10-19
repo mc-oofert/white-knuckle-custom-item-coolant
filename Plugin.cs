@@ -22,7 +22,7 @@ public class Plugin : BaseUnityPlugin
     }
 }
 
-public class Patches //todo null checks, logging, refactors, etc
+public class Patches
 {
     private static AssetBundle bundle;
 #if DEBUG
